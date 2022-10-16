@@ -118,22 +118,24 @@ h3{
     float: left;
     margin-left: 2%;
     margin-top: 2%;
-    color: black;
 }
 
 .componentheading{
     font-size: 20px;
     font-weight: bold;
+    color: black;
 }
 
 .componentaddress{
     font-size: 15px;
     margin-top: 1%;
+    color: black;
 }
 
 .componentcost{
     font-size: 15px;
     margin-top: 1%;
+    color: black;
 }
 
 .componenttype{
