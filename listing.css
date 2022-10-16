@@ -95,7 +95,6 @@ h3{
     display: block;
     float: left;
     border:2px solid black;
-    color: black;
 }
 
 .tilecomponent1{
@@ -119,6 +118,7 @@ h3{
     float: left;
     margin-left: 2%;
     margin-top: 2%;
+    color: black;
 }
 
 .componentheading{
